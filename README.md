@@ -19,7 +19,7 @@ The study began with a dataset comprising 20 thousand records of everyday Englis
 ## How to run the program
 * Clone the repository to your local machine:
 ```
-git clone https://github.com/AichaSidiya/AirportSatisfactionPrediction.git
+git clone https://github.com/AichaSidiya/MachineTranslation.git
 ``` 
 * Run on [Google Colab](https://research.google.com/colaboratory/)
 
